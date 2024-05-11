@@ -24,6 +24,7 @@ package server.quest;
 import client.Character;
 import client.QuestStatus;
 import client.QuestStatus.Status;
+import scripting.quest.QuestScriptManager;
 import config.YamlConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
